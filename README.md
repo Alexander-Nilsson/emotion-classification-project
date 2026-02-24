@@ -1,6 +1,8 @@
 # Emotion Recognition & Face Detection  
 **TDDE70 – Deep Learning Project**
 
+![Project Preview](preview.gif)
+
 ## Overview
 This project implements a combined system for **face detection** and **emotion classification** using deep learning.
 
